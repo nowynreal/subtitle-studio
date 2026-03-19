@@ -50,7 +50,6 @@ vtt-generator/
 
 ```
 git clone https://github.com/nowynreal/subtitle-studio.git
-cd vtt-generator
 ```
 
 ---

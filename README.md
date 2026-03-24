@@ -2,6 +2,10 @@
 
 A fast, minimal web app to generate, edit, and export subtitles from video/audio files.
 
+## Demo
+
+![Tool Demo](./demo.gif)
+
 ## ✨ Features
 
 - 🎥 Upload video or audio files
